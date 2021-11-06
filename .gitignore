@@ -1,0 +1,6 @@
+
+# que archivos o que directorios no queremos que este pendiente nuestro git, que no le de "seguimiento"
+
+node_modules/
+
+dist/
